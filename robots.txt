@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://palaciodeorisoain.com/sitemap.xml
